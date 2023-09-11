@@ -1,0 +1,15 @@
+{
+    "name": "vitcoin", 
+    "symbol": "vtc", 
+    "description": "vit currency", 
+    "image": "https://github.com/frag-gen/vitcoin/blob/main/image-removebg-preview.png", 
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://github.com/frag-gen/vitcoin/blob/main/image-removebg-preview.png",
+                "type": "png" 
+            }
+        ]
+    }
+}
